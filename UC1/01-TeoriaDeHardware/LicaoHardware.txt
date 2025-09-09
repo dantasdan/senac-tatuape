@@ -1,0 +1,17 @@
+processador - placa mãe
+
+1) intel i? - LGA 1200 (10-11)
+2) intel i? - LGA 1700 (12-13-14)
+3) intel Ultra ? - LGA 1851 (200)
+4) AMD Ryzen - AM4 (1000 - 5000)
+5) AMD Ryzen - AM5 (7000 - 9000)
+
+R: 1) Processador Intel Core i5 10400F, 2.90GHz (4.30GHz Turbo), 10ª Geração, 6-Cores 12-Threads, LGA 1200, BX8070110400F - Placa Mãe ASRock H510M-HDV/M.2, Chipset H510, Intel LGA 1200, mATX, DDR4, 90-MXBFT0-A0BAY1Z
+
+2) Processador Intel Core i9 14900F, 3.6 GHz (5.8GHz Turbo), 14ª Geração, 24-Cores 32-Threads, LGA 1700, BX8071514900F - Placa Mãe Asus Prime H610M-A, Chipset H610, Intel LGA 1700, mATX, DDR5, 90MB1G20-M0EAY0
+
+3) Processador Intel Core Ultra 7 265F, 2.4Ghz (5.3Ghz Turbo), Série 2, 20-Cores 20-Threads, LGA 1851, BX80768265F - Placa Mãe ASRock B860M Steel Legend WiFi, Chipset B860, Intel LGA 1851, mATX, DDR5, Branco
+
+4) Processador AMD Ryzen 7 5700G, 3.8GHz (4.6GHz Turbo), 8-Cores 16-Threads, Cooler Wraith Stealth, AM4, Com vídeo integrado, 100-100000263BOX - Placa Mãe MSI B550M-A PRO, Chipset B550, AMD AM4, mATX, DDR4
+
+5) Processador AMD Ryzen 5 8500G, 3.5GHz (5.0GHz Turbo), 6-Cores 12-Threads, AM5, Com Cooler AMD Wraith Stealth, 100-100000931BOX - Placa Mãe Gigabyte B650M Gaming X AX, Wi-Fi, Chipset B650, AMD AM5, M-ATX, DDR5

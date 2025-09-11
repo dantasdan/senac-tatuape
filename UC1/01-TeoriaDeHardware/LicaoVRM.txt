@@ -1,0 +1,19 @@
+Placa-Mãe A620M
+1- Socket AM5 Ryzen 7000-9000
+2- VRM
+3- CPU FANS
+4- Memória RAM
+5- Fonte de alimentação. CPU 4+4
+6- Debug
+7- ATX
+8- Sata
+9- USB 2.0
+10- USB 3.0
+11- Painel Frontal
+12- Audio
+13- PCI Express x1
+14- Bateria CMOS
+15- PCI Express x16
+16- SSD
+17- Case FAN
+18- Chipset

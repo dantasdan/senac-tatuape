@@ -1,0 +1,6 @@
+Azul escuro = VRM, geral
+Vermelho = Capacitor de entrada, recebe e armazena a energia que a placa recebe
+Verde = Mosfets, "filtra" um pouco da energia e envia para as Bobinas
+Roxo = Bobinas, envia a energia para os capacitores de saída
+Laranja = Capacitor de saída, que energia enviam para o processador
+ou para componentes juntos dele(Como por exemplo o Gráfico Integrado, caso tenha)

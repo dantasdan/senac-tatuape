@@ -1,4 +1,4 @@
-
+![GitHub License](https://img.shields.io/github/license/dantasdan/senac-tatuape)
 
 # 📚 Repositório de Estudos - Curso Técnico em Informática (SENAC Tatuapé)
 

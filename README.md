@@ -1,3 +1,4 @@
+![Static Badge](https://img.shields.io/badge/senac-tatuape)
 
 # 📚 Repositório de Estudos - Curso Técnico em Informática (SENAC Tatuapé)
 
